@@ -52,3 +52,13 @@ h1 {
   background-color: #333333;
 }
 nav li {list-style:none outside;}
+.panel .media {
+  margin-bottom: 1em;
+}
+.thumbnail img{ width:100%;}
+#investors .thumbnail p {
+  min-height: 6em;
+}
+.thumbnail h3 {
+  font-size: 1.1em;
+}
